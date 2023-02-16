@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **codes001/codes001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I love tech, especially the web, so I want to develop responsive web applications, and also, I want to contribute to human society through the web technology.
