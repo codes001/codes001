@@ -4,6 +4,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=5000&color=%047aed&size=40&height=200&width=800&lines=Heyyy!+I'm+Prince+Effiong;I'+m+a+Software++developer; I+ am + a+Freelancer;Welcome+to+my+profile+!">
 </p>
+<p align="center"><img src="animation.gif" width="35%"></p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=5000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Nweke+Chidi+%3C3;I'+m+a+Software++Engineer+at+Cedarview;Welcome+to+my+profile+!">
+</p>
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
@@ -24,7 +29,8 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=codes001&style=for-the-badge&color=blue"/></a>
  <br>
  
- 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+
  ---
  ## Social <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="22" height="22">
 
@@ -50,7 +56,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML`" title="HTML`" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-woodmark.svg" alt="TailwindCSS" title="TailwindCSS" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45"/>                  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="45" height="45"/>                  
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="45" height="45"/>                  
@@ -63,9 +68,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codes001&show_icons=true&locale=en&layout=compact" alt="codes001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codes001&show_icons=true&locale=en" alt="codes001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codes001&" alt="codes001" /></p>
                     
