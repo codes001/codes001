@@ -1,4 +1,4 @@
-<h1 align="center">  
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''<h1 align="center">  
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110">
 Welcome to Prince's GitHub!
  <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
@@ -30,4 +30,9 @@ Welcome to Prince's GitHub!
  <a href="mailto:princeokwong19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://twitter.com/_effiong_prince"><img width="37px" height="28px" alt="Twitter" title="Twitter" src="https://i.imgur.com/UlUtoFm_d.webp?style=social&url=https%3A%2F%2Ftwitter.com%_effiong_prince_%2Ffollowers"></a>
 </p>
-
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
