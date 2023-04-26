@@ -1,13 +1,9 @@
 <h1 align="center">  
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110">
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=5000&color=%047aed&size=40&height=200&width=800&lines=Heyyy!+I'm+Prince+Effiong;I'+m+a+Software++developer; I+ am + a+Freelancer;Welcome+to+my+profile+!">
-</p>
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=5000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Nweke+Chidi+%3C3;I'+m+a+Software++Engineer+at+Cedarview;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=5000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Prince+Effiong+!;I'+m+a+Software++developer+!; I'm+a+freelancer;Welcome+to+my+profile+!">
 </p>
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
@@ -47,7 +43,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codes001&label=Profile%20views&color=0e75b6&style=flat" alt="codes001" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codes001" alt="codes001" /></a> </p>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools I use</h2>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
@@ -69,6 +65,6 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codes001&" alt="codes001" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codes001&" alt="codes001" /></p>
                     
           
