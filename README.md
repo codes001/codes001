@@ -3,7 +3,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=22&duration=5024&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Prince+Effiong;I'm+a+software+developer;I'm+a+Freelancer;Welcome+to+my+profile!!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=40&duration=5024&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Prince+Effiong;I'm+a+software+developer;I'm+a+Freelancer;Welcome+to+my+profile!!!" alt="Typing SVG" /></a>
 </p>
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
