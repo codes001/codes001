@@ -3,7 +3,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=5000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Prince+Effiong+!;I'+m+a+Software++developer+!; I'm+a+freelancer;Welcome+to+my+profile+!">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=22&duration=5024&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Prince+Effiong;I'm+a+software+developer;I'm+a+Freelancer;Welcome+to+my+profile!!!)](https://git.io/typing-svg)
 </p>
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
@@ -28,7 +28,7 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
  ---
- ## Social <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="22" height="22">
+ ## Link up with Me! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="22" height="22">
 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
