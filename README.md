@@ -3,10 +3,9 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=40&duration=5024&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Prince+Effiong;I'm+a+software+developer;I'm+a+Freelancer;Welcome+to+my+profile!!!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I+am+Prince+Effiong;I+am+a+Software+Developer;I+am+a+product+designer;Welcome+to+my+profile)](https://git.io/typing-svg)
 </p>
 </h1>
-<h1 align="center">Hi 👋, I'm Prince Effiong</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codes001&label=Profile%20views&color=0e75b6&style=flat" alt="codes001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codes001" alt="codes001" /></a> </p>
