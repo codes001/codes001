@@ -1,6 +1,6 @@
 <h1 align="center">  
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110">
-<p align="center"><img src="animation.gif" width="35%"></p>
+<p align="center"><img src="animation.gif" width="37%"></p>
 
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I+am+Prince+Effiong;I+am+a+Software+Developer;I+am+a+product+designer;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </h1>
