@@ -10,9 +10,9 @@
 
 <p align="center"> <a href="https://twitter.com/_effiong_prince" target="blank"><img src="https://img.shields.io/twitter/follow/_effiong_prince?logo=twitter&style=for-the-badge" alt="_effiong_prince" /></a> </p>
 
-- 📫 Drop me a mail = ()=> **prybertocode@gmail.com**
+- 📫 Drop me a mail = ()=> prybertocode@gmail.com
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Let's connect:</h3>
 <p align="center">
 <a href="https://twitter.com/_effiong_prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_effiong_prince" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prince-effiong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-effiong" height="30" width="40" /></a>
