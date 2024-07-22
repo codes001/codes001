@@ -10,7 +10,7 @@
 
 <p align="center"> <a href="https://twitter.com/_effiong_prince" target="blank"><img src="https://img.shields.io/twitter/follow/_effiong_prince?logo=twitter&style=for-the-badge" alt="_effiong_prince" /></a> </p>
 
-- 📫 Drop me a mail = ()=> prybertocode@gmail.com.
+- 📫 Drop me a mail = ()=> prybertocode@gmail.com
 
 <h3 align="center">Let us connect:</h3>
 <p align="center">
