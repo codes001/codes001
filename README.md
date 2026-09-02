@@ -1,32 +1,227 @@
-<h1 align="center">  
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110">
-<p align="center"><img src="animation.gif" width="37%"></p>
-
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I+am+Prince+Effiong;I+am+a+Software+Developer;I+am+a+product+designer;Welcome+to+my+profile" alt="Typing SVG" /></a>
-</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codes001&label=Profile%20views&color=0e75b6&style=flat" alt="codes001" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codes001" alt="codes001" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/_effiong_prince" target="blank"><img src="https://img.shields.io/twitter/follow/_effiong_prince?logo=twitter&style=for-the-badge" alt="_effiong_prince" /></a> </p>
-
-📫 Drop me a mail ==> princeeffiong010@gmail.com
-
-<h3 align="center">Connect with me here </h3>
-<p align="center">
-<a href="https://twitter.com/_effiong_prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_effiong_prince" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prince-effiong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-effiong" height="30" width="40" /></a>
-<a href="https://instagram.com/effiong_prince_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="effiong_prince_" height="30" width="40" /></a>
-<a href="https://hashnode.com/codes001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="codes001" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Technologies I use: </h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codes001&show_icons=true&locale=en&layout=compact" alt="codes001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codes001&show_icons=true&locale=en" alt="codes001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codes001&" alt="codes001" /></p>
-
-
+ <div align="center">                                                     
+                                                                             
+    <!-- Animated Header Wave Banner -->                                     
+    <img src="https://capsule-render.vercel.                                 
+  app/api?type=waving&color=gradient&customColorList=0:00F2FE,50:4FACFE,     
+  100:6B11FF&height=220&section=header&text=Prince%20Effiong&fontSize=50&font
+  AlignY=38&desc=%F0%9F%9A%80%20Frontend%20Developer%20%7C%20Product%20Design
+  er%20%7C%20Creative%20Technologist&descAlignY=62&descAlign=50"             
+  width="100%"/>                                                             
+                                                                             
+    <!-- Animated Typing Subheader -->                                       
+    <a href="https://github.com/codes001">                                   
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+             
+  Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&v
+  Center=true&width=620&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Prince+Effiong;   
+  %F0%9F%92%BB+Frontend+Web+Developer;%F0%9F%8E%A8+Product+Designer+         
+  (UI%2FUX);%E2%9C%A8+Crafting+modern%2C+interactive+experiences;            
+  %F0%9F%94%A5+The+future+is+now." alt="Typing SVG" />                       
+    </a>                                                                     
+                                                                             
+    <p align="center">                                                       
+      <a href="https://komarev.com/ghpvc/?username=codes001&label=PROFILE+   
+  VIEWS&color=38bdf8&style=for-the-badge&logo=eye">                          
+        <img src="https://komarev.com/ghpvc/?username=codes001&label=PROFILE+
+  VIEWS&color=38bdf8&style=for-the-badge&logo=eye" alt="Profile Views" />    
+      </a>                                                                   
+    </p>                                                                     
+                                                                             
+    <!-- Social Badges -->                                                   
+    <p align="center">                                                       
+      <a href="https://linkedin.com/in/prince-effiong" target="_blank">      
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
+  badge&logo=linkedin&logoColor=white" alt="LinkedIn" />                     
+      </a>                                                                   
+      <a href="https://twitter.com/_effiong_prince" target="_blank">         
+        <img src="https://img.shields.io/badge/Twitter%20%2F%20X-            
+  000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />        
+      </a>                                                                   
+      <a href="https://hashnode.com/codes001" target="_blank">               
+        <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-
+  badge&logo=hashnode&logoColor=white" alt="Hashnode" />                     
+      </a>                                                                   
+      <a href="https://instagram.com/effiong_prince_" target="_blank">       
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-   
+  the-badge&logo=instagram&logoColor=white" alt="Instagram" />               
+      </a>                                                                   
+      <a href="mailto:princeeffiong010@gmail.com">                           
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-   
+  badge&logo=gmail&logoColor=white" alt="Email" />                           
+      </a>                                                                   
+    </p>                                                                     
+                                                                             
+    </div>                                                                   
+                                                                             
+    ---                                                                      
+                                                                             
+    ### 💫 About Me                                                          
+                                                                             
+    <table>                                                                  
+      <tr>                                                                   
+        <td width="60%" valign="top">                                        
+          <p>💡 Passionate <b>Frontend Developer</b> and <b>Product          
+  Designer</b> dedicated to transforming ideas into pixel-perfect, accessible,
+  and high-performance digital products.</p>                                 
+          <ul>                                                               
+            <li>🔭 <b>Currently focused on:</b> Building modern web apps with
+  React, Next.js, and TypeScript.</li>                                       
+            <li>🎨 <b>Design Philosophy:</b> Bridging the gap between sleek  
+  UI/UX design and scalable code.</li>                                       
+            <li>🌱 <b>Exploring:</b> Advanced component architecture, full-  
+  stack ecosystems, and interactive animations.</li>                         
+            <li>💬 <b>Ask me about:</b> Web Development, Design Systems,     
+  JavaScript, React, UI/UX, or Figma.</li>                                   
+            <li>⚡ <b>Motto:</b> <i>"The future is now."</i></li>            
+            <li>📫 <b>Get in touch:</b> <a                                   
+  href="mailto:princeeffiong010@gmail.com">princeeffiong010@gmail.           
+  com</a></li>                                                               
+          </ul>                                                              
+        </td>                                                                
+        <td width="40%" align="center" valign="middle">                      
+          <img src="https://user-images.githubusercontent.                   
+  com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"           
+  width="100%" alt="Coding Animation" />                                     
+        </td>                                                                
+      </tr>                                                                  
+    </table>                                                                 
+                                                                             
+    ---                                                                      
+                                                                             
+    ### 🛠️ Tech Stack & Arsenal                                              
+                                                                             
+    <div align="center">                                                     
+                                                                             
+    #### 🌐 Frontend Development & Frameworks                                
+    <p align="center">                                                       
+      <a href="https://skillicons.dev">                                      
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,
+  vue,tailwind,bootstrap,redux&perline=10&theme=dark" alt="Frontend Tech     
+  Stack" />                                                                  
+      </a>                                                                   
+    </p>                                                                     
+                                                                             
+    #### ⚙️ Backend, Database & APIs                                         
+    <p align="center">                                                       
+      <a href="https://skillicons.dev">                                      
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,     
+  postman&perline=10&theme=dark" alt="Backend Tech Stack" />                 
+      </a>                                                                   
+    </p>                                                                     
+                                                                             
+    #### 🎨 UI/UX & Graphic Design                                           
+    <p align="center">                                                       
+      <a href="https://skillicons.dev">                                      
+        <img src="https://skillicons.dev/icons?i=figma,ai,                   
+  ps&perline=10&theme=dark" alt="Design Tools" />                            
+      </a>                                                                   
+    </p>                                                                     
+                                                                             
+    #### 🔧 Tools & Environment                                              
+    <p align="center">                                                       
+      <a href="https://skillicons.dev">                                      
+        <img src="https://skillicons.dev/icons?i=git,github,                 
+  vscode&perline=10&theme=dark" alt="Dev Tools" />                           
+      </a>                                                                   
+    </p>                                                                     
+                                                                             
+    </div>                                                                   
+                                                                             
+    ---                                                                      
+                                                                             
+    ### 🏆 Achievements & Trophies                                           
+                                                                             
+    <p align="center">                                                       
+      <a href="https://github.com/ryo-ma/github-profile-trophy">             
+        <img src="https://github-profile-trophy.vercel.                      
+  app/?username=codes001&theme=tokyonight&no-frame=true&no-                  
+  bg=true&margin_w=4" alt="Trophies" />                                      
+      </a>                                                                   
+    </p>                                                                     
+                                                                             
+    ---                                                                      
+                                                                             
+    ### 📊 GitHub Activity & Statistics                                      
+                                                                             
+    <div align="center">                                                     
+      <table border="0">                                                     
+        <tr>                                                                 
+          <td align="center" width="50%">                                    
+            <img src="https://github-readme-stats.vercel.                    
+  app/api?username=codes001&show_icons=true&theme=tokyonight&hide_border=true
+  &bg_color=0D1117&title_color=38BDF8&icon_color=60A5FA&text_color=94A3B8"   
+  alt="GitHub Stats" width="100%" />                                         
+          </td>                                                              
+          <td align="center" width="50%">                                    
+            <img src="https://streak-stats.demolab.                          
+  com/?user=codes001&theme=tokyonight&hide_border=true&background=0D1117&ring
+  =38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"            
+  width="100%" />                                                            
+          </td>                                                              
+        </tr>                                                                
+        <tr>                                                                 
+          <td colspan="2" align="center">                                    
+            <img src="https://github-readme-stats.vercel.app/api/top-        
+  langs?username=codes001&show_icons=true&locale=en&layout=compact&theme=toky
+  onight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B
+  8" alt="Top Languages" width="55%" />                                      
+          </td>                                                              
+        </tr>                                                                
+      </table>                                                               
+    </div>                                                                   
+                                                                             
+    ---                                                                      
+                                                                             
+    ### 🚀 Featured Repositories                                             
+                                                                             
+    <div align="center">                                                     
+      <table>                                                                
+        <tr>                                                                 
+          <td width="50%" align="center">                                    
+            <b>🌐 <a href="https://github.com/codes001/NESREA">NESREA</a></b>
+            <br/>                                                            
+            <i>Environmental authority web platform clone with clean UI and  
+  responsive layout.</i>                                                     
+          </td>                                                              
+          <td width="50%" align="center">                                    
+            <b>⚡ <a href="https://github.com/codes001/alx-                  
+  low_level_programming">ALX Low-Level Programming</a></b>                   
+            <br/>                                                            
+            <i>Foundations of computer science, memory management, and data  
+  structures in C.</i>                                                       
+          </td>                                                              
+        </tr>                                                                
+        <tr>                                                                 
+          <td width="50%" align="center">                                    
+            <b>✨ <a href="https://github.                                   
+  com/codes001/Alvative">Alvative</a></b>                                    
+            <br/>                                                            
+            <i>Modern responsive website reconstruction and UI prototyping.  
+  </i>                                                                       
+          </td>                                                              
+          <td width="50%" align="center">                                    
+            <b>🔥 <a href="https://github.                                   
+  com/codes001/vanillawebprojects">Vanilla Web Projects</a></b>              
+            <br/>                                                            
+            <i>Interactive mini web applications built purely with HTML5,    
+  CSS3, and JavaScript.</i>                                                  
+          </td>                                                              
+        </tr>                                                                
+      </table>                                                               
+    </div>                                                                   
+                                                                             
+    ---                                                                      
+                                                                             
+    ### 🤝 Let's Connect & Collaborate!                                      
+                                                                             
+    <p align="center">                                                       
+      <a href="mailto:princeeffiong010@gmail.com">                           
+        <img src="https://img.shields.io/badge/📩%20Send%20Me%20An%20Email-  
+  princeeffiong010%40gmail.com-00F2FE?style=for-the-badge&labelColor=0D1117" 
+  alt="Email Prince" />                                                      
+      </a>                                                                   
+    </p>                                                                     
+                                                                             
+    <!-- Footer Wave Banner -->                                              
+    <img src="https://capsule-render.vercel.                                 
+  app/api?type=waving&color=gradient&customColorList=0:6B11FF,50:4FACFE,     
+  100:00F2FE&height=120&section=footer" width="100%"/> 
