@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=160&section=header&text=Prince%20Effiong&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20and%20Product%20Designer&descSize=16&descAlignY=58" width="100%" alt="Prince Effiong" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=180&section=header&text=Prince%20Effiong&fontSize=46&fontColor=ffffff&fontFamily=Playfair%20Display&animation=fadeIn&fontAlignY=34&desc=Software%20Developer%20and%20Product%20Designer&descSize=15&descAlignY=56" width="100%" alt="Prince Effiong" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=1200&color=14B8A6&center=true&vCenter=true&width=560&lines=Hello%2C+I+am+Prince+Effiong;Software+Developer;Product+Designer;I+care+about+how+products+feel" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=3200&pause=1200&color=0F766E&center=true&vCenter=true&width=620&letterSpacing=0.5px&lines=Hello%2C+I+am+Prince+Effiong;Software+Developer;Product+Designer;I+care+about+how+products+feel" alt="Typing intro" />
   </a>
 </div>
 
@@ -16,7 +16,9 @@
 
 ---
 
-### About me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=800&pause=100000&color=0F172A&center=true&vCenter=true&repeat=false&width=280&lines=About+me" alt="About me" />
+</p>
 
 I'm **Prince Effiong** (`@codes001`) — software developer and product designer at **TIIDELAB**.
 
@@ -33,7 +35,9 @@ I care about how products feel, not just how they function: clean interfaces, co
 
 ---
 
-### Connect
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=800&pause=100000&color=0F172A&center=true&vCenter=true&repeat=false&width=240&lines=Connect" alt="Connect" />
+</p>
 
 <p align="center">
   <a href="mailto:princeeffiong010@gmail.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -46,7 +50,9 @@ I care about how products feel, not just how they function: clean interfaces, co
 
 ---
 
-### Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=800&pause=100000&color=0F172A&center=true&vCenter=true&repeat=false&width=200&lines=Stack" alt="Stack" />
+</p>
 
 **Frontend**
 
@@ -68,7 +74,9 @@ I care about how products feel, not just how they function: clean interfaces, co
 
 ---
 
-### GitHub
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=800&pause=100000&color=0F172A&center=true&vCenter=true&repeat=false&width=220&lines=GitHub" alt="GitHub" />
+</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=codes001&show_icons=true&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&ring_color=14B8A6" alt="GitHub stats" />
@@ -89,7 +97,9 @@ I care about how products feel, not just how they function: clean interfaces, co
 
 ---
 
-### Selected work
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=800&pause=100000&color=0F172A&center=true&vCenter=true&repeat=false&width=340&lines=Selected+work" alt="Selected work" />
+</p>
 
 <p align="center">
   <a href="https://github.com/codes001/NESREA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=codes001&repo=NESREA&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9&icon_color=14B8A6" alt="NESREA" /></a>
